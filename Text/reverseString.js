@@ -8,7 +8,7 @@ function reverseString(str) {
   if(str === "") {
     return "Nothing entered";
   }
-  return ( str.reverse() );
+  return ( str.split('').reverse().join('') );
 };
 
 console.log(reverseString("The quick brown fox jumps over the lazy dog"));
