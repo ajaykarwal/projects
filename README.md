@@ -9,16 +9,16 @@ The Numbers section is taken from [Karan Goel's](https://github.com/karan/Projec
 
 **Contents**
 
-[Numbers](Numbers)
-[Text](Text)
-[Networking](Networking)
-[Classes](Classes)
-[Threading](Threading)
-[Web](Web)
-[Files](Files)
-[Databases](Databases)
-[Graphics and Multimedia](Graphics and Multimedia)
-[Games](Games)
+[Numbers](Numbers) | 
+[Text](Text) | 
+[Networking](Networking) | 
+[Classes](Classes) | 
+[Threading](Threading) | 
+[Web](Web) | 
+[Files](Files) | 
+[Databases](Databases) | 
+[Graphics and Multimedia](Graphics and Multimedia) | 
+[Games](Games) | 
 
 
 
