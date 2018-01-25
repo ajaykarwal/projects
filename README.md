@@ -6,16 +6,16 @@ The Numbers section is taken from [Karan Goel's](https://github.com/karan/Projec
 
 **Contents**
 
-- [#Numbers](Numbers)
-- [#Text](Text)
-- [#Networking](Networking)
-- [#Classes](Classes)
-- [#Threading](Threading)
-- [#Web](Web)
-- [#Files](Files)
-- [#Databases](Databases)
-- [#Graphics-and-Multimedia](Graphics and Multimedia)
-- [#Games](Games)
+- [Numbers](#numbers)
+- [Text](#text)
+- [Networking](#networking)
+- [Classes](#Classes)
+- [Threading](#threading)
+- [Web](#web)
+- [Files](#files)
+- [Databases](#databases)
+- [Graphics and Multimedia](#graphics-and-multimedia)
+- [Games](#games)
 
 ---
 
